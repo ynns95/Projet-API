@@ -1,0 +1,86 @@
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.82.227.113
+Authentication Date: 2024-06-03T08:30:53.564518290Z
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.82.227.113
+Authentication Date: 2024-06-03T08:32:08.012973179Z
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.82.227.113
+Authentication Date: 2024-06-03T08:33:33.477988250Z
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T12:47:40.406821150Z
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T13:48:25.654268079Z
+Prompt Tokens: 14
+Completion Tokens: 15
+Total Tokens: 29
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T13:50:30.867914639Z
+Prompt Tokens: 0
+Completion Tokens: 0
+Total Tokens: 0
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T13:51:56.661259040Z
+Prompt Tokens: 0
+Completion Tokens: 0
+Total Tokens: 0
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T13:52:46.900798446Z
+Prompt Tokens: 12
+Completion Tokens: 5
+Total Tokens: 17
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T13:53:58.613051470Z
+Prompt Tokens: 12
+Completion Tokens: 5
+Total Tokens: 17
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T14:04:21.934488942Z
+Prompt Tokens: 13
+Completion Tokens: 15
+Total Tokens: 28
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T14:05:11.438516525Z
+Prompt Tokens: 13
+Completion Tokens: 15
+Total Tokens: 28
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T14:13:43.325703117Z
+Prompt Tokens: 13
+Completion Tokens: 15
+Total Tokens: 28
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T15:08:16.815413723Z
+Prompt Tokens: 13
+Completion Tokens: 27
+Total Tokens: 40
+=============================================
+User: yannis.dhont@ensea.fr
+Client IP Address: 90.102.47.97
+Authentication Date: 2024-06-05T15:09:24.465990005Z
+Prompt Tokens: 13
+Completion Tokens: 32
+Total Tokens: 45
+=============================================
